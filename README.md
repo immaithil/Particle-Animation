@@ -7,11 +7,11 @@ Click on back button to try another name.
 This is a particle animation written purely with help of JavaScript, HTML and CSS. No framework is used in this project.
 
 ## Project- Details
-The first file is index.html which contains the link of js and css file and an element Canvas is initialized inside it.
+The first file is index.html which contains the link of js and css file. It contains elements of div, textbox, button which I have used to create the first page and back buttton and an element canvas which is used to create particle animation.
 
-The second file is Style.css which contains basic css property of body and Canvas element.
+The second file is Style.css which contains basic css property and different classes which helps in creating first ane animation page.
 
-The third file is script.js which has all the code related to animation of particle.
+The third file is script.js which has all the code related to take input from user and create it into particle animation.
 
 
 
