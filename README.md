@@ -15,7 +15,7 @@ The third file is script.js which has all the code related to animation of parti
 
 
 
-# Animation-Code in JS
+## Animation-Code in JS
 At first I have created a canvas variable and initiated an array for particles .
 
 I have created an object named mouse which contains coordinates of mouse and its radius.
