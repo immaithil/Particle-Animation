@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.canvas-hide{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    
+}
+.container{
+    position:absolute;
+    left: 40vw;
+    top: 10vw;
+    border: 2px solid white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+#name{
+    margin-top: 2rem;
+    height: 7vh;
+    border-radius: 10px;
+    padding: 1rem;
+}
+#submit{
+    display: block;
+    height: 2.5rem;
+    width: 5rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+.canvas-show{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.container-hide{
+    display: none;
+}
+.back-show{
+    position: absolute;
+    right: 2rem;
+    bottom: 3rem;
+    height: 5vh;
+    width: 6vw;
+    border-radius: 8px;
+}
+.back-hide{
+    display: none;
+}
