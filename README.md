@@ -6,7 +6,7 @@ Click on back button to try another name.
 
 This is a particle animation written purely with help of JavaScript, HTML and CSS. No framework is used in this project.
 
-Project- Details
+## Project- Details
 The first file is index.html which contains the link of js and css file and an element Canvas is initialized inside it.
 
 The second file is Style.css which contains basic css property of body and Canvas element.
@@ -15,7 +15,7 @@ The third file is script.js which has all the code related to animation of parti
 
 
 
-Animation-Code in JS
+# Animation-Code in JS
 At first I have created a canvas variable and initiated an array for particles .
 
 I have created an object named mouse which contains coordinates of mouse and its radius.
